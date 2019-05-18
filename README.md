@@ -18,3 +18,5 @@ Rest Repositories [Web]
 ### Web Server: Tomcat
 
 ### Default Port: 8080
+
+## Bean Example
